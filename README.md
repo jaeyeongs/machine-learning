@@ -5,3 +5,6 @@
 - Logistic Regression
 - K-Nearest Neighbor
 - Naive Bayes
+- Decision Tree
+
+**DACON**
