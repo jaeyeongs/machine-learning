@@ -6,5 +6,9 @@
 - K-Nearest Neighbor
 - Naive Bayes
 - Decision Tree
+- XGBoost
+- LightGBM
+- KMeans
+- PCA
 
 **DACON**
